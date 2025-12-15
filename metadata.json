@@ -1,0 +1,7 @@
+{
+  "name": "AI Headshots",
+  "description": "Turn selfies into professional studio-quality headshots using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
